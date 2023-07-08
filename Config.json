@@ -1,0 +1,13 @@
+{
+  {
+
+    "BaseAPIURL_Test": "https://reqres.in/api",
+    "BaseAPIURL_SIT": "",
+    "BaseAPIURL_UAT/PreProd": "",
+    "Prod": "",
+
+    "RoutTemplate": "/users?page=2"
+
+
+  }
+}
